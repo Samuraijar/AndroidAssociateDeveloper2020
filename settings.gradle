@@ -1,0 +1,2 @@
+rootProject.name='Associate Android Developer (2020) Practice Project'
+include ':app'
